@@ -1,6 +1,6 @@
 {
   "name": "poem-mute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A mute button with an event emitter",
   "main": "lib/index.js",
   "scripts": {
