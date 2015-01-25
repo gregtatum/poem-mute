@@ -15,6 +15,14 @@
       "brfs"
     ]
   },
+  "keywords": [
+    "visualization",
+    "game",
+    "ui",
+    "poem",
+    "mute",
+    "button"
+  ],
   "author": "Greg Tatum",
   "license": "MIT",
   "bugs": {
