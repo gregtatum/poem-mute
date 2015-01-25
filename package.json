@@ -1,0 +1,32 @@
+{
+  "name": "poem-mute",
+  "version": "1.0.0",
+  "description": "A mute button with an event emitter",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatumcreative/poem-mute"
+  },
+  "browserify": {
+    "transform": [
+      "brfs"
+    ]
+  },
+  "author": "Greg Tatum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tatumcreative/poem-mute/issues"
+  },
+  "homepage": "https://github.com/tatumcreative/poem-mute",
+  "dependencies": {
+    "brfs": "^1.2.0",
+    "class-list": "^0.1.1",
+    "events": "^1.0.2",
+    "extend": "^2.0.0",
+    "insert-css": "^0.2.0",
+    "localforage": "^1.2.1"
+  }
+}

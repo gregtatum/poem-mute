@@ -1,0 +1,16 @@
+.poem-mute-svg {
+    fill: #fff;
+	opacity:0.8;
+}
+.poem-mute-muted .poem-mute-wave {
+    display: none;
+}
+.poem-mute-unmuted .poem-mute-x {
+    display: none;
+}
+.poem-mute-x {
+    fill: red;
+}
+.poem-mute-svg:hover {
+    opacity:1;
+}
