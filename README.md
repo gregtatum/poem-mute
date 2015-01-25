@@ -12,10 +12,6 @@ A simple mute button for visualizations. It uses localforage to store the last k
 		keyCode : 83 // keycode to mute, default is "S"
 		
 	});
-	
-	
-	mute.emitter.
-	
 
 ## Interface
 
