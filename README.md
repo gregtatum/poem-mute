@@ -2,6 +2,8 @@
 
 A simple mute button for visualizations. It uses localforage to store the last known mute state.
 
+Part of the [programming-poem](https://www.npmjs.com/browse/keyword/programming-poem) module series.
+
 ## Usage:
 
 	var createMuteButton = require('poem-mute');
